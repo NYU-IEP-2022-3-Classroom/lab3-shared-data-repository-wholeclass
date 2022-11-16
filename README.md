@@ -4,6 +4,6 @@
 
 Please upload your *_angle.txt files from lab3
 
-assignment link: https://classroom.github.com/a/MUTgJgYK
+assignment link: https://classroom.github.com/a/XQ6XCigA
 
 this is a "group" assignment so everyone should be able to access the same repository
